@@ -70,10 +70,9 @@ nav a{
     background-image: url('../images/pngtree-orange-and-white-abstract-swirler-background-png-image_11049152.png'), url('../images/3a3f5f34-fcc5-417d-8c5a-cab5b1c217ee.jpeg');
     background-position: bottom right, top left;
     */
-    background-image: url('../images/pngtree-orange-and-white-abstract-swirler-background-png-image_11049152.png');
-    background-position: bottom right;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-position: bottom right, top left;
     background-repeat: no-repeat;
-    background-size: 900px;
 }
 .banner{
     padding: 30px 30px 0px 150px;
